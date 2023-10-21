@@ -1,4 +1,4 @@
-## Séries Temporárias
+## Séries Temporárias em Pyhton
 
 ```
 from scipy import stats
